@@ -35,3 +35,9 @@ Superuser Labs is a small company with a focus on open-source software developme
 ## Transparency
 
 We aim to have a high level of transparency and openness in our operations, and this repository is intended to be the starting point for all public information about Superuser Labs.
+
+## Links
+
+Website: [superuserlabs.com](https://superuserlabs.com)
+GitHub: [github.com/superuserlabs](https://github.com/superuserlabs)
+Twitter: [@superusrlabs](https://twitter.com/superusrlabs)
