@@ -32,6 +32,54 @@ The company:
 
 Superuser Labs is a small company with a focus on open-source software development. The company's income comes from a mix of consulting work, donations, and grants. The company's expenses are primarily salaries, server costs, and other operational costs.
 
+```mermaid
+graph TD
+    subgraph SL[Superuser Labs]
+        SEB
+        Revolut
+        Payoneer
+        Stripe
+        Avanza
+    end
+
+    subgraph AW[ActivityWatch]
+        AWOC[OpenCollective]
+        Coinbase
+        Wallet
+    end
+
+    subgraph Donations
+        BTC
+        ETH
+        Patreon
+        Liberapay
+        OC[OpenCollective]
+        GHS[GitHub Sponsors]
+    end
+    OC --> AWOC
+    BTC --> Coinbase
+    ETH --> Wallet
+    Patreon --> Payoneer --> Revolut
+    Liberapay --> Stripe --> SEB
+    GHS -- @ActivityWatch --> AWOC
+    GHS -- @ErikBjare --> Stripe
+
+    subgraph C[Consulting]
+        Lovable
+        GU[Ghent University]
+    end
+    Lovable --> SEB
+    GU --> SEB
+
+    subgraph Grants
+        FUUG[FUUG.fi]
+    end
+    FUUG --> SEB
+
+    Revolut <--> SEB --> Avanza
+```
+
+
 ## Transparency
 
 We aim to have a high level of transparency and openness in our operations, and this repository is intended to be the starting point for all public information about Superuser Labs.
