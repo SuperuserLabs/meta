@@ -28,9 +28,17 @@ The company:
  - Has two (as of yet unpaid) employees, Erik Bjäreholt and Johan Bjäreholt.
  - Has a board of directors consisting of Erik Bjäreholt and Johan Bjäreholt.
 
-## Income and expenses
+## Finances
 
-Superuser Labs is a small company with a focus on open-source software development. The company's income comes from a mix of consulting work, donations, and grants. The company's expenses are primarily salaries, server costs, and other operational costs.
+It is still early and the company is still finding its footing, but we aim to be transparent about our operations and will update this document as we grow.
+
+We have completed our first fiscal year (2023) and are in the process of finalizing the annual report.
+
+### Income
+
+The company's income comes from a mix of consulting work, donations, and grants. 
+
+Below is a high-level overview of the company's income sources, serving to clarify the relationships between the company and related entities.
 
 ```mermaid
 graph TD
@@ -79,6 +87,13 @@ graph TD
     Revolut <--> SEB --> Avanza
 ```
 
+### Expenses 
+
+The company's expenses are primarily spent on hardware, cloud services, and other operational costs.
+
+We intend to scale up our development capacity by hiring more developers, but as of now, the company has no employees and no salaries are paid out, apart from small grants to part-time developers.
+
+The company does not pay bug bounties for ActivityWatch, as those are paid out from OpenCollective (a separate legal entity).
 
 ## Transparency
 
