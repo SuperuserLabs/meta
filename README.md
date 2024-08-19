@@ -22,8 +22,9 @@ Superuser Labs' mission is to research and develop open-source software that emp
 The company:
 
  - Is registered in Sweden.
- - Company registration number ("organisationsnummer") 559388-1773.
+ - Has a Swedish Company registration number ("organisationsnummer") 559388-1773.
  - Has a VAT number ("momsregistreringsnummer") SE559388177301.
+ - Has a DUNS number: 351299922.
  - Has bank accounts with SEB and Revolut.
  - Has two (as of yet unpaid) employees, Erik Bjäreholt and Johan Bjäreholt.
  - Has a board of directors consisting of Erik Bjäreholt and Johan Bjäreholt.
