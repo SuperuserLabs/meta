@@ -37,7 +37,7 @@ We have completed our first fiscal year (2023) and are in the process of finaliz
 
 ### Income
 
-The company's income comes from a mix of consulting work, donations, and grants. 
+The company's income comes from a mix of consulting work, donations, grants, and software services like [gptme.ai](https://gptme.ai).
 
 Below is a high-level overview of the company's income sources, serving to clarify the relationships between the company and related entities.
 
@@ -68,10 +68,19 @@ graph TD
     OC --> AWOC
     BTC --> Coinbase
     ETH --> Wallet
-    Patreon --> Payoneer --> Revolut
-    Liberapay --> Stripe --> SEB
+    Patreon --> Payoneer
+    Liberapay --> Stripe
     GHS -- @ActivityWatch --> AWOC
     GHS -- @ErikBjare --> Stripe
+
+    subgraph gptme.ai
+        gptme[Subscriptions]
+    end
+    gptme --> Stripe
+
+    %% Processors
+    Payoneer --> Revolut
+    Stripe --> Revolut
 
     subgraph C[Consulting]
         Lovable
@@ -80,10 +89,11 @@ graph TD
     Lovable --> SEB
     GU --> SEB
 
-    subgraph Grants
-        FUUG[FUUG.fi]
-    end
-    FUUG --> SEB
+    %% Old, pre-2023 grants
+    %% subgraph Grants
+    %%    FUUG[FUUG.fi]
+    %%    UGP[Uniswap Grants Program]
+    %% end
 
     Revolut <--> SEB --> Avanza
 ```
