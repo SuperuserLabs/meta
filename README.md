@@ -11,6 +11,9 @@ As work on Thankful ceased and ActivityWatch became a community-led operation, m
 The company was formally founded in 2022 as a Swedish AB ("Aktiebolag"). 
 Company formation happened in response to Erik getting ActivityWatch-related consulting offers, and there being a need to structure donations into an entity. 
 
+In December 2023 Erik joined Lovable as first employee, and Superuser Labs served as the contractor entity for the six month period at the company.
+Since leaving Lovable in May 2024, Superuser Labs has returned to focus on [gptme](https://github.com/gptme/gptme), the [gptme.ai](https://gptme.ai) service, and gptme-powered agents like [Bob](https://github.com/TimeToBuildBob).
+
 A foundation was considered since there is very little financial interest, but was postponed indefinitely due to the operational cost and overhead, as well as the one-way nature of such a decision and there likely being a need for a two-tier structure anyway.
 
 ### Mission
@@ -22,10 +25,13 @@ Superuser Labs' mission is to research and develop open-source software that emp
 The company:
 
  - Is registered in Sweden.
- - Has a Swedish Company registration number ("organisationsnummer") 559388-1773.
- - Has a VAT number ("momsregistreringsnummer") SE559388177301.
- - Has a DUNS number: 351299922.
+ - Has a Swedish Company registration number ("organisationsnummer") 559388-1773
+ - Has a VAT number ("momsregistreringsnummer") SE559388177301
+ - Has a DUNS number: 351299922
  - Has bank accounts with SEB and Revolut.
+  - SEB account: IBAN SE5550000000050041188918 ESSESESSXXX
+  - Revolut account: IBAN LT413250078603815180 REVOLT21
+  - Bankgiro: 475-0147
  - Has two (as of yet unpaid) employees, Erik Bjäreholt and Johan Bjäreholt.
  - Has a board of directors consisting of Erik Bjäreholt and Johan Bjäreholt.
 
@@ -33,7 +39,7 @@ The company:
 
 It is still early and the company is still finding its footing, but we aim to be transparent about our operations and will update this document as we grow.
 
-We have completed our first fiscal year (2023) and are in the process of finalizing the annual report.
+You can review the public financial statements for past fiscal years on sites like [Allabolag](https://www.allabolag.se/5593881773).
 
 ### Income
 
