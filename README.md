@@ -5,11 +5,11 @@ This repository contains key information about Superuser Labs, along with docume
 
 ## About the company
 
-Superuser Labs was originally the name for the group of people who were involved with the early development of ActivityWatch and Thankful around 2017-2019. 
+Superuser Labs was originally the name for the group of people who were involved with the early development of ActivityWatch and Thankful around 2017-2019.
 As work on Thankful ceased and ActivityWatch became a community-led operation, most contributors moved on except brothers Erik and Johan Bjäreholt.
 
-The company was formally founded in 2022 as a Swedish AB ("Aktiebolag"). 
-Company formation happened in response to Erik getting ActivityWatch-related consulting offers, and there being a need to structure donations into an entity. 
+The company was formally founded in 2022 as a Swedish AB ("Aktiebolag").
+Company formation happened in response to Erik getting ActivityWatch-related consulting offers, and there being a need to structure donations into an entity.
 
 In December 2023 Erik joined Lovable as first employee, and Superuser Labs served as the contractor entity for the six month period at the company.
 Since leaving Lovable in May 2024, Superuser Labs has returned to focus on [gptme](https://github.com/gptme/gptme), the [gptme.ai](https://gptme.ai) service, and gptme-powered agents like [Bob](https://github.com/TimeToBuildBob).
@@ -19,6 +19,19 @@ A foundation was considered since there is very little financial interest, but w
 ### Mission
 
 Superuser Labs' mission is to research and develop open-source software that empowers people.
+
+### Team
+
+- **Erik Bjäreholt** — CEO, Developer. Founded the company, created ActivityWatch and gptme. ([GitHub](https://github.com/ErikBjare), [Twitter](https://twitter.com/ErikBjare))
+- **Johan Bjäreholt** — Developer. Co-founder, core contributor to ActivityWatch. ([GitHub](https://github.com/johan-bjareholt))
+- **[Bob](https://timetobuildbob.github.io)** — AI Agent, Developer. An autonomous agent built with gptme, contributing code and reviewing PRs 24/7 since November 2024. ([GitHub](https://github.com/TimeToBuildBob), [Twitter](https://twitter.com/TimeToBuildBob))
+
+### Projects
+
+- **[ActivityWatch](https://activitywatch.net)** — The world's best free and open-source automated time-tracker. Cross-platform, local-first, extensible. 16k+ GitHub stars.
+- **[gptme](https://gptme.org)** — A personal AI agent in your terminal. Tools for files, code, web, and more. Available as CLI, web app, desktop app, and managed service at [gptme.ai](https://gptme.ai).
+- **[uniswap-python](https://github.com/uniswap-python/uniswap-python)** — The unofficial Python library for Uniswap.
+- **[Thankful](https://github.com/SuperuserLabs/thankful)** — Donate crypto directly to creators you like, automatically and without middlemen. *(Discontinued 2019)*
 
 ### Key information
 
@@ -118,6 +131,7 @@ We aim to have a high level of transparency and openness in our operations, and 
 
 ## Links
 
-Website: [superuserlabs.com](https://superuserlabs.com)
-GitHub: [github.com/superuserlabs](https://github.com/superuserlabs)
-Twitter: [@superusrlabs](https://twitter.com/superusrlabs)
+Website: [superuserlabs.org](https://superuserlabs.org)
+GitHub: [github.com/SuperuserLabs](https://github.com/SuperuserLabs)
+Twitter: [@SuperusrLabs](https://twitter.com/SuperusrLabs)
+LinkedIn: [Superuser Labs](https://www.linkedin.com/company/superuser-labs)
