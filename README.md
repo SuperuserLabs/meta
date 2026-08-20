@@ -37,7 +37,7 @@ Superuser Labs' mission is to research and develop open-source software that emp
 
 The company:
 
- - Is registered in Sweden.
+ - Is registered in Sweden under the full legal name "Superuser Labs Lund AB".
  - Has a Swedish Company registration number ("organisationsnummer") 559388-1773
  - Has a VAT number ("momsregistreringsnummer") SE559388177301
  - Has a DUNS number: 351299922
@@ -45,7 +45,7 @@ The company:
   - SEB account: IBAN SE5550000000050041188918 ESSESESSXXX
   - Revolut account: IBAN LT413250078603815180 REVOLT21
   - Bankgiro: 475-0147
- - Has two (as of yet unpaid) employees, Erik Bjäreholt and Johan Bjäreholt.
+ - Has no employees. Work is done by Erik Bjäreholt together with AI agents, and occasionally contractors.
  - Has a board of directors consisting of Erik Bjäreholt and Johan Bjäreholt.
 
 ## Finances
@@ -117,11 +117,18 @@ graph TD
     Revolut <--> SEB --> Avanza
 ```
 
+### Services
+
+The company offers consulting services in AI agents & LLM integration, developer tooling, full-stack development, and machine learning.
+Typical engagements are short-to-medium projects or retainer-based advisory, remote-first.
+Business is done B2B through the Swedish AB.
+Inquiries can be sent to [erik@superuserlabs.com](mailto:erik@superuserlabs.com).
+
 ### Expenses 
 
 The company's expenses are primarily spent on hardware, cloud services, and other operational costs.
 
-We intend to scale up our development capacity by hiring more developers, but as of now, the company has no employees and no salaries are paid out, apart from small grants to part-time developers.
+The company has no employees and no salaries are paid out. Work is done by Erik together with AI agents, and occasionally contractors (for example, an ActivityWatch contributor paid hourly as a consultant). There are currently no plans to hire; we scale development capacity through AI agents and contractors instead.
 
 The company does not pay bug bounties for ActivityWatch, as those are paid out from OpenCollective (a separate legal entity).
 
